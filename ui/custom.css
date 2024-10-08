@@ -1,0 +1,43 @@
+QPushButton {{
+    color: {QTMATERIAL_SECONDARYCOLOR};
+    text-transform: none;
+    background-color: {QTMATERIAL_PRIMARYCOLOR};
+}}
+
+QGroupBox::title {{
+    color: #000;
+}}
+
+QTableWidget {{
+    color: #000;
+    font-family: "Segoe UI";
+}}
+
+QScrollBar:horizontal {{
+    border: 0;
+    background: #C0D0EB;
+    height: 8px;
+}}
+
+QScrollBar:vertical {{
+    border: 0;
+    background: #C0D0EB;
+    width: 8px;
+}}
+
+QScrollBar::handle {{
+    background: #2979FF;
+}}
+
+
+#labelTestCurrentResult {{
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}}
+
+#labelTestLoopResult {{
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}}

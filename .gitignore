@@ -1,0 +1,20 @@
+Miniconda3/
+__pycache__/
+output/*
+日志.txt
+
+1.py
+2.py
+test/*
+*.docx
+*.xlsx
+out/
+
+src/
+src.zip
+
+配置 copy.ini
+ui/icon.ico
+icon.ico
+
+软件/
